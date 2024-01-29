@@ -27,7 +27,6 @@ Cheers! 🚀
 
 * 🌍  I'm based in Victoria
 * 🖥️  See my portfolio at [Andres Portfolio](http://andreslopezdco.github.io/)
-* 🚀  I'm currently working on [My personal Projects](http://lin)
 * 🧠  I'm learning Cloud computing, Data Science
 
 ### Skills  
